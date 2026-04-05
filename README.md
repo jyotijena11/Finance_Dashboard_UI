@@ -53,7 +53,7 @@ The dashboard provides a premium single-page finance experience with three main 
 - Displays key financial Data:
   - Net Balance.
   - Total Income.
-  - Total Expenses.
+  - Total Expenses. 
   - Savings Rate.
 - Shows a quick snapshot of recent transactions.
 - Includes a preview of financial insights.
