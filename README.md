@@ -33,14 +33,19 @@ The dashboard provides a premium single-page finance experience with three main 
 ---
 
 ## Images:
-#Finance_Dashboard_UI(Dark_Mode)![image_alt](https://github.com/jyotijena11/Finance_Dashboard_UI/blob/302a9891199c1b024fdba0de911a100fe6713aa5/Finance_Dashboard_UI(Dark_Mode).png)
-#Finance_Dashboard_UI ![image_alt](https://github.com/jyotijena11/Finance_Dashboard_UI/blob/808e9b8e85ca30aa4c98bcdc0fd5f951b0a6373d/Finance_Dashboard_UI.png)
-#Finance_Dashboard_UI(Light Mode) ![image_alt](https://github.com/jyotijena11/Finance_Dashboard_UI/blob/808e9b8e85ca30aa4c98bcdc0fd5f951b0a6373d/Finance_Dashboard_UI(Light%20Mode).png)
-#Financial_Overview ![image_alt](https://github.com/jyotijena11/Finance_Dashboard_UI/blob/808e9b8e85ca30aa4c98bcdc0fd5f951b0a6373d/Financial_Overview.png)
-#Transactions_Management(Admin_Window) ![image_alt](https://github.com/jyotijena11/Finance_Dashboard_UI/blob/808e9b8e85ca30aa4c98bcdc0fd5f951b0a6373d/Transactions_Management(Admin_Window).png)
-#Transactions_Management(Viewer_Window) ![image_alt](https://github.com/jyotijena11/Finance_Dashboard_UI/blob/808e9b8e85ca30aa4c98bcdc0fd5f951b0a6373d/Transactions%20Management(Viewer_Window).png)
-#Financial Insights ![image_alt](https://github.com/jyotijena11/Finance_Dashboard_UI/blob/808e9b8e85ca30aa4c98bcdc0fd5f951b0a6373d/Financial%20Insights.png)
+#Finance_Dashboard_UI(Dark_Mode)![image_alt](https://github.com/jyotijena11/Finance_Dashboard_UI/blob/f8f1141cce02eb1db9a64b266c7992d0c8cb065f/Finance_Dashboard_UI(Dark_Mode).png)
 
+#Finance_Dashboard_UI ![image_alt](https://github.com/jyotijena11/Finance_Dashboard_UI/blob/f8f1141cce02eb1db9a64b266c7992d0c8cb065f/Finance_Dashboard_UI.png)
+
+#Finance_Dashboard_UI(Light Mode) ![image_alt](https://github.com/jyotijena11/Finance_Dashboard_UI/blob/f8f1141cce02eb1db9a64b266c7992d0c8cb065f/Finance_Dashboard_UI(Light%20Mode).png)
+
+#Financial_Overview ![image_alt](https://github.com/jyotijena11/Finance_Dashboard_UI/blob/f8f1141cce02eb1db9a64b266c7992d0c8cb065f/Financial_Overview.png)
+
+#Transactions_Management(Admin_Window) ![image_alt](https://github.com/jyotijena11/Finance_Dashboard_UI/blob/f8f1141cce02eb1db9a64b266c7992d0c8cb065f/Transactions_Management(Admin_Window).png)
+
+#Transactions_Management(Viewer_Window) ![image_alt](https://github.com/jyotijena11/Finance_Dashboard_UI/blob/f8f1141cce02eb1db9a64b266c7992d0c8cb065f/Transactions%20Management(Viewer_Window).png)
+
+#Financial Insights ![image_alt](https://github.com/jyotijena11/Finance_Dashboard_UI/blob/f8f1141cce02eb1db9a64b266c7992d0c8cb065f/Financial%20Insights.png)
 
 ## Features
 
